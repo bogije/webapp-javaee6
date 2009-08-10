@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<archetype-descriptor id="webapp-jee6" partial="false" name="JEE6 web application archetype">
+<archetype-descriptor id="webapp-javaee6" partial="false" name="JavaEE6 web application archetype">
   <fileSets>
     <fileSet filtered="true" packaged="false">
       <directory>src/main/webapp</directory>

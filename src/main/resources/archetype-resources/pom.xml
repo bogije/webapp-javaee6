@@ -5,7 +5,7 @@
   <artifactId>${artifactId}</artifactId>
   <packaging>war</packaging>
   <version>${version}</version>
-  <name>${artifactId} JEE6 Webapp</name>
+  <name>${artifactId} Java EE 6 Webapp</name>
   <url>http://maven.apache.org</url>
   <repositories>
       <repository>
