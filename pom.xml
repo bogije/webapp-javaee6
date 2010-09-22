@@ -8,6 +8,6 @@
   <artifactId>webapp-javaee6</artifactId>
   <version>1.2-SNAPSHOT</version>
   <packaging>jar</packaging>
-  <name>Java EE 6 web application archetype</name>
-  <description>Java EE 6 web application archetype</description>
+  <name>Java EE 6 WAR archetype</name>
+  <description>Archetype for a web application using Java EE 6.</description>
 </project>
