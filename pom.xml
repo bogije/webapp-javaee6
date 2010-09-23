@@ -6,7 +6,7 @@
   </parent>
   <modelVersion>4.0.0</modelVersion>
   <artifactId>webapp-javaee6</artifactId>
-  <version>1.2-SNAPSHOT</version>
+  <version>1.2</version>
   <packaging>jar</packaging>
   <name>Java EE 6 WAR Archetype</name>
   <description>Archetype for a web application using Java EE 6.</description>
@@ -31,4 +31,10 @@
       </plugin>
     </plugins>
   </build>
+
+  <scm>
+    <connection>scm:svn:http://svn.codehaus.org/mojo/tags/webapp-javaee6-1.2</connection>
+    <developerConnection>scm:svn:https://svn.codehaus.org/mojo/tags/webapp-javaee6-1.2</developerConnection>
+    <url>http://fisheye.codehaus.org/browse/mojo/tags/webapp-javaee6-1.2</url>
+  </scm>
 </project>
