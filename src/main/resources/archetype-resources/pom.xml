@@ -8,7 +8,7 @@
     <version>${version}</version>
     <packaging>war</packaging>
 
-    <name>${artifactId} Web App</name>
+    <name>${artifactId}</name>
 
     <properties>
         <endorsed.dir>${D}{project.build.directory}/endorsed</endorsed.dir>
@@ -79,7 +79,6 @@
                 </executions>
             </plugin>
         </plugins>
-        <finalName>${artifactId}</finalName>
     </build>
 
 </project>
